@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/COMjungle_logo.png" alt="COM Jungle" width="420">
+  <img src="images/COMjungle_logo.png" alt="COM Jungle">
 </p>
 
 # COM Jungle
